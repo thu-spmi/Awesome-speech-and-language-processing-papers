@@ -98,7 +98,7 @@ under the Same Context**. Yichi Zhang, Zhijian Ou, Zhou Yu. AAAI, 2020. [PDF](ht
 - [HLT-SDTM] Spoken Document Retrieval and Text Mining
 
 1. **Dense Passage Retrieval for Open-Domain Question Answering**. Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih. EMNLP, 2020. [PDF](https://arxiv.org/pdf/2004.04906.pdf) (_DPR_)
-2. **Text and Code Embeddings by Contrastive Pre-Training**. Arvind Neelakantan, Tao Xu, Raul Puri, Alec Radford, Jesse Michael Han, Jerry Tworek, Qiming Yuan, Nikolas Tezak, Jong Wook Kim, Chris Hallacy, Johannes Heidecke, Pranav Shyam, Boris Power, Tyna Eloundou Nekoul, Girish Sastry, Gretchen Krueger, David Schnurr, Felipe Petroski Such, Kenny Hsu, Madeleine Thompson, Tabarak Khan, Toki Sherbakov, Joanne Jang, Peter Welinder, Lilian Weng. arXiv:2201.10005, 2022. [PDF](https://arxiv.org/pdf/2201.10005.pdf)
+2. **Text and Code Embeddings by Contrastive Pre-Training**. Arvind Neelakantan, Tao Xu, Raul Puri, Alec Radford, Jesse Michael Han, Jerry Tworek, Qiming Yuan, Nikolas Tezak, Jong Wook Kim, Chris Hallacy, Johannes Heidecke, Pranav Shyam, Boris Power, Tyna Eloundou Nekoul, Girish Sastry, Gretchen Krueger, David Schnurr, Felipe Petroski Such, Kenny Hsu, Madeleine Thompson, Tabarak Khan, Toki Sherbakov, Joanne Jang, Peter Welinder, Lilian Weng. arXiv:2201.10005, 2022. [PDF](https://arxiv.org/pdf/2201.10005.pdf) (_openai cpt-text, cpt-code_)
 
 ## Machine Translation
 - [HLT-MTSW] Machine Translation for Spoken and Written Language
