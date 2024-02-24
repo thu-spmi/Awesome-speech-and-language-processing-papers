@@ -61,16 +61,15 @@ It includes a mix of EDICS topics:
 
 7. Brown, et al, "Language Models are Few-Shot Learners", NeurIPS 2020. (_GPT_-3)
 
-   
 
 
 ## Dialog Systems
 [HLT-DIAL] Discourse and Dialog
 
-1. Yichi Zhang, Zhijian Ou, and Zhou Yu, “Task-oriented dialog systems that consider multiple appropriate responses under the same context”, AAAI, 2020. (_DAMD_)
-2. Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, and Richard Socher, “A simple language model for task-oriented dialogue,” arXiv:2005.00796, 2020. (_SimpleTOD_)
-3. Lewis, et al, "Retrieval-Augmented Generation for Knowledge-Intensive NLP tasks", NeurIPS 2020. (_RAG_)
-4. Ouyang, et al, "Training language models to follow instructions with human feedback", arXiv:2203.02155, 2022. (_InstructGPT_)
+1.  **Task-oriented dialog systems that consider multiple appropriate responses under the same context**. Yichi Zhang, Zhijian Ou, Zhou Yu. AAAI, 2020. [PDF](https://arxiv.org/pdf/1911.10484.pdf) (_DAMD_)
+2. **A simple language model for task-oriented dialogue**. Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher. arXiv:2005.00796, 2020. [PDF](https://arxiv.org/pdf/2005.00796.pdf) (_SimpleTOD_)
+3. **Retrieval-Augmented Generation for Knowledge-Intensive NLP tasks**. Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela. NeurIPS, 2020. [PDF](https://arxiv.org/pdf/2005.11401.pdf) (_RAG_)
+4. **Training language models to follow instructions with human feedback**. Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe. arXiv:2203.02155, 2022. [PDF](https://arxiv.org/pdf/2203.02155.pdf) (_InstructGPT_)
 
 ## Speech Perception and Psychoacoustics
 - [SPE-SPER] Speech Perception and Psychoacoustics
@@ -96,6 +95,9 @@ It includes a mix of EDICS topics:
 
 ## Retrieval
 - [HLT-SDTM] Spoken Document Retrieval and Text Mining
+
+1. **Dense Passage Retrieval for Open-Domain Question Answering**. Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih. EMNLP, 2020. [PDF](https://arxiv.org/pdf/2004.04906.pdf) (_DPR_)
+2. **Text and Code Embeddings by Contrastive Pre-Training**. Arvind Neelakantan, Tao Xu, Raul Puri, Alec Radford, Jesse Michael Han, Jerry Tworek, Qiming Yuan, Nikolas Tezak, Jong Wook Kim, Chris Hallacy, Johannes Heidecke, Pranav Shyam, Boris Power, Tyna Eloundou Nekoul, Girish Sastry, Gretchen Krueger, David Schnurr, Felipe Petroski Such, Kenny Hsu, Madeleine Thompson, Tabarak Khan, Toki Sherbakov, Joanne Jang, Peter Welinder, Lilian Weng. arXiv:2201.10005, 2022. [PDF](https://arxiv.org/pdf/2201.10005.pdf)
 
 ## Machine Translation
 - [HLT-MTSW] Machine Translation for Spoken and Written Language
