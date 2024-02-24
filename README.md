@@ -64,7 +64,7 @@ It includes a mix of EDICS topics:
 
 
 ## Dialog Systems
-[HLT-DIAL] Discourse and Dialog
+- [HLT-DIAL] Discourse and Dialog
 
 1.  **Task-oriented dialog systems that consider multiple appropriate responses under the same context**. Yichi Zhang, Zhijian Ou, Zhou Yu. AAAI, 2020. [PDF](https://arxiv.org/pdf/1911.10484.pdf) (_DAMD_)
 2. **A simple language model for task-oriented dialogue**. Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher. arXiv:2005.00796, 2020. [PDF](https://arxiv.org/pdf/2005.00796.pdf) (_SimpleTOD_)
