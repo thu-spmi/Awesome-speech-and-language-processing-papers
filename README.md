@@ -68,9 +68,9 @@ It includes a mix of EDICS topics:
 
 1.  **Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses 
 under the Same Context**. Yichi Zhang, Zhijian Ou, Zhou Yu. AAAI, 2020. [PDF](https://arxiv.org/pdf/1911.10484.pdf) (_DAMD_)
-2. **A Simple Language Model for Task-Oriented Dialogue**. Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher. arXiv:2005.00796, 2020. [PDF](https://arxiv.org/pdf/2005.00796.pdf) (_SimpleTOD_)
+2. **A Simple Language Model for Task-Oriented Dialogue**. Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher. NeurIPS, 2020. [PDF](https://arxiv.org/pdf/2005.00796.pdf) (_SimpleTOD_)
 3. **Retrieval-Augmented Generation for Knowledge-Intensive NLP tasks**. Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela. NeurIPS, 2020. [PDF](https://arxiv.org/pdf/2005.11401.pdf) (_RAG_)
-4. **Training language models to follow instructions with human feedback**. Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe. arXiv:2203.02155, 2022. [PDF](https://arxiv.org/pdf/2203.02155.pdf) (_InstructGPT_)
+4. **Training language models to follow instructions with human feedback**. Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe. NeurIPS, 2022. [PDF](https://arxiv.org/pdf/2203.02155.pdf) (_InstructGPT_)
 
 ## Speech Perception and Psychoacoustics
 - [SPE-SPER] Speech Perception and Psychoacoustics
