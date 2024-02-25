@@ -26,20 +26,20 @@ It includes a mix of EDICS topics:
 
 
 
-1. L. R. Rabiner, “A tutorial on hidden Markov models and selected applications in speech recognition”, Proceedings of the IEEE, 1989. [PDF](https://web.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf) (_HMM_)
-2. M. Mohri, F. Pereira, and M. Riley, “Speech Recognition with Weighted Finite-State Transducers”, Handbook on Speech Processing and Speech, Springer, 2008. [PDF](https://cs.nyu.edu/~mohri/pub/hbka.pdf) (_WFST_)
-3. Zhijian Ou, "State-of-the-Art of End-to-End Speech Recognition", Tutorial at The 6th Asian Conference on Pattern Recognition (ACPR 2021), Jeju Island, Korea, 2021.  [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/pdf/ACPR2021%20Tutorial%20State-of-the-Art%20of%20End-to-End%20Speech%20Recognition.pdf)
-4. G. Dahl, et al., "Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition", TASLP, 2012. (_DNN-HMM_)
-5. A. Graves, S. Fernandez, F. Gomez, and J. Schmidhuber, “Connectionist temporal classiﬁcation: Labelling unsegmented sequence data with recurrent neural networks”, ICML, 2006. [PDF](https://www.cs.toronto.edu/~graves/icml_2006.pdf) (_CTC_)
-6. D. Povey, et al., "Purely sequence-trained neural networks for ASR based on lattice-free MMI", INTERSPEECH 2016. (_Kaldi_)
-7. S. Watanabe, T. Hori, S. Kim, J. R. Hershey, and T. Hayashi, "Hybrid CTC/attention architecture for end-to-end speech recognition", IEEE Journal of Selected Topics in Signal Processing, 2017. (_ESPnet_)
-8. Hongyu Xiang, Zhijian Ou, "CRF-based Single-stage Acoustic Modeling with CTC Topology", ICASSP, 2019. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/pdf/ctc-crf.pdf) (_CTC-CRF_)
-9. D. Bahdanau, et al, “Neural machine translation by jointly learning to align and translate”, ICLR 2015. (_AED, Attention-based Encoder-Decoder_)
-10. W. Chan, et al., "Listen, attend and spell: A neural network for large vocabulary conversational speech recognition", ICASSP 2016. (_LAS_)
-11. A. Graves, “Sequence transduction with recurrent neural networks,” ICML 2012 Workshop on Representation Learning. (_RNN-T_)
-12. Lafferty, et al., "Conditional random fields: Probabilistic models for segmenting and labeling sequence data”, ICML 2001. (_CRF_)
-13. “Conformer: Convolution-augmented Transformer for Speech Recognition”, Interspeech 2020. (_Conformer_)
-14. Chengrui Zhu, Keyu An, Huahuan Zheng, Zhijian Ou. “Multilingual and Crosslingual Speech Recognition using Phonological-Vector based Phone Embeddings”, ASRU 2021. (_JoinAP_)
+1. **A tutorial on hidden Markov models and selected applications in speech recognition**. Lawrence Rabiner. Proceedings of the IEEE, 1989. [PDF](https://web.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf) (_HMM_)
+2. **Speech Recognition with Weighted Finite-State Transducers**. Mehryar Mohri, Fernando Pereira, Michael Riley. Handbook on Speech Processing and Speech, Springer, 2008. [PDF](https://cs.nyu.edu/~mohri/pub/hbka.pdf) (_WFST_)
+3. **State-of-the-Art of End-to-End Speech Recognition**. Zhijian Ou. Tutorial at The 6th Asian Conference on Pattern Recognition (ACPR 2021), Jeju Island, Korea, 2021.  [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/pdf/ACPR2021%20Tutorial%20State-of-the-Art%20of%20End-to-End%20Speech%20Recognition.pdf)
+4. **Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition**. George E. Dahl, Dong Yu, Li Deng, Alex Acero. IEEE Transactions on Audio, Speech, and Language Processing, 2011. [PDF](https://www.cs.toronto.edu/%7Egdahl/papers/DRAFT_DBN4LVCSR-TransASLP.pdf) (_DNN-HMM_)
+5. **Connectionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks**. Alex Graves, Santiago Fernandez, Faustino Gomez, and Juergen Schmidhuber. ICML, 2006. [PDF](https://www.cs.toronto.edu/~graves/icml_2006.pdf) (_CTC_)
+6. **Purely sequence-trained neural networks for ASR based on lattice-free MMI**. Daniel Povey, et al. INTERSPEECH, 2016. [PDF](https://www.danielpovey.com/files/2016_interspeech_mmi.pdf) (_Kaldi_)
+7. **Hybrid CTC/attention architecture for end-to-end speech recognition**. Shinji Watanabe, Takaaki Hori, Suyoun Kim, John Hershey, Tomoki Hayashi. IEEE Journal of Selected Topics in Signal Processing, 2017. [PDF](https://www.merl.com/publications/docs/TR2017-190.pdf) (_ESPnet_)
+8. **CRF-based Single-stage Acoustic Modeling with CTC Topology**. Hongyu Xiang, Zhijian Ou. ICASSP, 2019. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/pdf/ctc-crf.pdf) (_CTC-CRF_)
+9. **Neural machine translation by jointly learning to align and translate**. Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. ICLR, 2015. [PDF](https://arxiv.org/pdf/1409.0473.pdf) (_AED, Attention-based Encoder-Decoder_)
+10. **Listen, attend and spell: A neural network for large vocabulary conversational speech recognition**. William Chan, Navdeep Jaitly, Quoc V. Le, Oriol Vinyals. ICASSP, 2016. [PDF](https://arxiv.org/pdf/1409.0473.pdf) (_LAS_)
+11. **Sequence transduction with recurrent neural networks**. Alex Graves. ICML 2012 Workshop on Representation Learning, 2012 [PDF](https://arxiv.org/pdf/1211.3711.pdf) (_RNN-T_)
+12. **Conditional random fields: Probabilistic models for segmenting and labeling sequence data**. Lafferty John, Andrew McCallum, Fernando Pereira. ICML, 2001. [PDF](https://repository.upenn.edu/server/api/core/bitstreams/4905e2c0-e9d5-4961-804b-973de8bdfc7c/content) (_CRF_)
+13. **Conformer: Convolution-augmented Transformer for Speech Recognition**. Anmol Gulati, et al. Interspeech, 2020. [PDF](https://arxiv.org/pdf/2005.08100.pdf) (_Conformer_)
+14. **Multilingual and Crosslingual Speech Recognition using Phonological-Vector based Phone Embeddings**. Chengrui Zhu, Keyu An, Huahuan Zheng, Zhijian Ou. ASRU, 2021. [PDF](https://arxiv.org/pdf/2107.05038.pdf) (_JoinAP_)
 
 ## Language Modeling
 - [HLT-LANG] Language Modeling
