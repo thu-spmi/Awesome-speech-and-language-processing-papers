@@ -47,19 +47,19 @@ It includes a mix of EDICS topics:
 - [HLT-UNDE] Spoken Language Understanding and Computational Semantics
 - [HLT-MLMD] Machine Learning Methods for Language
 
-1. S. F. Chen and J. Goodman, “An empirical study of smoothing techniques for language modeling”, Computer Speech & Language, 1999. (_N-Gram_)
+1. **An empirical study of smoothing techniques for language modeling**. Stanley F. Chen, Joshua Goodman. Computer Speech & Language, 1999. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/pgm/pgm-pdf/Chen&Goodman1998_An_empirical_study_of_smoothing_techniques_for_language_modeling.pdf) (_N-Gram_)
 
-2. Zhijian Ou, "Energy-Based Models with Applications to Speech and Language Processing", ICASSP 2022 Tutorial. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/ICASSP2022/ICASSP2022_Tutorial_EBM.pdf)
+2. **Energy-Based Models with Applications to Speech and Language Processing**. Zhijian Ou. ICASSP 2022 Tutorial. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/ICASSP2022/ICASSP2022_Tutorial_EBM.pdf)
 
-3. Bin Wang, Zhijian Ou, Zhiqiang Tan, "Learning Trans-dimensional Random Fields with Applications to Language Modeling", TPAMI, 2018. (_TRF_)
+3. **Learning Trans-dimensional Random Fields with Applications to Language Modeling**. Bin Wang, Zhijian Ou, Zhiqiang Tan. TPAMI, 2018. [PDF](http://oa.ee.tsinghua.edu.cn/ouzhijian/pdf/TRF.pdf) (_TRF_)
 
-4. Radford, et al, "Improving language understanding by generative pre-training", 2018. (_GPT_)
+4. **Improving language understanding by generative pre-training**. Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. 2018.  [PDF](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) (_GPT_)
 
-5. Devlin, et al, "BERT: Pre-training of deep bidirectional transformers for language understanding", ACL 2019. (_BERT_)
+5. **BERT: Pre-training of deep bidirectional transformers for language understanding**. Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. ACL 2019. [PDF](https://arxiv.org/pdf/1810.04805.pdf)  (_BERT_)
 
-6. Radford, et al, "Language models are unsupervised multitask learners", OpenAI Blog, 2019. (_GPT_-2)
+6. **Language models are unsupervised multitask learners**. Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever. OpenAI Blog, 2019. [PDF](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf) (_GPT-2_)
 
-7. Brown, et al, "Language Models are Few-Shot Learners", NeurIPS 2020. (_GPT_-3)
+7. **Language Models are Few-Shot Learners**. Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei. NeurIPS 2020. [PDF](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) (_GPT-3_)
 
 
 
