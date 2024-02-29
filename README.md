@@ -41,7 +41,7 @@ It includes a mix of EDICS topics:
 13. **Conformer: Convolution-augmented Transformer for Speech Recognition**. Anmol Gulati, et al. Interspeech, 2020. [PDF](https://arxiv.org/pdf/2005.08100.pdf) (_Conformer_)
 14. **Multilingual and Crosslingual Speech Recognition using Phonological-Vector based Phone Embeddings**. Chengrui Zhu, Keyu An, Huahuan Zheng, Zhijian Ou. ASRU, 2021. [PDF](https://arxiv.org/pdf/2107.05038.pdf) (_JoinAP_)
 
-## update section Language Modeling
+## Language Modeling
 - [HLT-LANG] Language Modeling
 - [HLT-LACL] Language Acquisition and Learning
 - [HLT-UNDE] Spoken Language Understanding and Computational Semantics
