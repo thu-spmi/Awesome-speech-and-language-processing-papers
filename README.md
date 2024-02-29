@@ -47,7 +47,7 @@ It includes a mix of EDICS topics:
 - [HLT-UNDE] Spoken Language Understanding and Computational Semantics
 - [HLT-MLMD] Machine Learning Methods for Language
 
-1. **An empirical study of smoothing techniques for language modeling**. Stanley F. Chen, Joshua Goodman. Computer Speech & Language, 1999. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/pgm/pgm-pdf/Chen&Goodman1998_An%20empirical%20study%20of%20smoothing%20techniques%20for%20language%20modeling.pdf) (_N-Gram_)
+1. **An empirical study of smoothing techniques for language modeling**. Stanley F. Chen, Joshua Goodman. Computer Speech & Language, 1999. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/pgm/pgm-pdf/Chen&Goodman1998_An_empirical_study_of_smoothing_techniques_for_language_modeling.pdf) (_N-Gram_)
 
 2. **Energy-Based Models with Applications to Speech and Language Processing**. Zhijian Ou. ICASSP 2022 Tutorial. [PDF](http://oa.ee.tsinghua.edu.cn/~ouzhijian/ICASSP2022/ICASSP2022_Tutorial_EBM.pdf)
 
